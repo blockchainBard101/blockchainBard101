@@ -27,8 +27,9 @@ I am currently pursuing a Bachelor of Engineering in Mechatronics Engineering at
 - **Description:** A decentralized Database smart contract that manages users, courses, games, and NFTs within A platform
 - **Technologies Used:** Move Programming Language.
 - **Key Features:** Allows users to enroll in courses, earn XP and badges, and interact with games.
-- **Link to GitHub Repository:** [Repository][https://github.com/TeamSushiSui/EduverseX-smart-contract/blob/main/smart-contracts%2FeduverseX_database%2Fsources%2Feduversex_database.move](https://github.com/blockchainBard101/Decentralized-voting-app-sui)
-## Contact
+- **Link to GitHub Repository:** [Repository](https://github.com/TeamSushiSui/EduverseX-smart-contract/blob/main/smart-contracts%2FeduverseX_database%2Fsources%2Feduversex_database.move)
+
+## Contact me 
 
 - **website:** coming soon...
 - **GitHub:** (https://github.com/blockchainBard101)
