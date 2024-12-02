@@ -15,11 +15,11 @@ I am currently pursuing a Bachelor of Engineering in Mechatronics Engineering at
 
 ## Projects
 
-### [Decentralized voting Application](https://github.com/blockchainBard101/Decentralized-voting-app-sui)
+### [Decentralized voting Application](https://github.com/TeamSushiSui/EduverseX-smart-contract/blob/main/smart-contracts%2FeduverseX_database%2Fsources%2Feduversex_database.move)
 - **Description:** A decentralized voting system built on the Sui blockchain, enabling secure, transparent, and tamper-proof elections.
 - **Technologies Used:** Move Programming Language, React, TypeScript, Sui SDK, Node.js, Sui Wallet.
 - **Key Features:** leveraging smart contracts to allow users to create elections, cast votes, and view results in a trustless environment.
-- **Link to GitHub Repository:** [Repository](https://github.com/blockchainBard101/Decentralized-voting-app-sui)
+- **Link to GitHub Repository:** [https://github.com/TeamSushiSui/EduverseX-smart-contract/blob/main/smart-contracts%2FeduverseX_database%2Fsources%2Feduversex_database.move](https://github.com/blockchainBard101/Decentralized-voting-app-sui)
 - **Demo:** [YouTube](https://www.youtube.com/watch?v=KiHmlAuvpRI).
 
 ### [decentralized educational and gaming platform database](https://github.com/blockchainBard101/Decentralized-voting-app-sui)
