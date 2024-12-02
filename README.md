@@ -8,9 +8,9 @@ I am currently pursuing a Bachelor of Engineering in Mechatronics Engineering at
 
 ## Skills
 
-- **Programming Languages:** Python, JavaScript, Sui Move.
+- **Programming Languages:** Python, JavaScript/Typescript, Sui Move, Rust.
 - **Databases:** Mongodb
-- **Tools & Frameworks:** React, Node js.
+- **Tools & Frameworks:** React, Node js, Sui sdk.
 - **Areas of Expertise:** Smart Contract and Backend Development.
 
 ## Projects
