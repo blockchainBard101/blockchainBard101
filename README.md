@@ -34,7 +34,7 @@ I am currently pursuing a Bachelor of Engineering in Mechatronics Engineering at
 
 I am a proud member of **Team Sushi**, a collaborative group of blockchain enthusiasts and developers working on innovative solutions within the Sui ecosystem. 
 Building:
-- **EduXverse**[EduXverse](https://x.com/EduXverse_sui) A virtual Reality eco-system on the sui blockchain where users can Learn, Earn, interact and Play games.
+- [EduXverse](https://x.com/EduXverse_sui) A virtual Reality eco-system on the sui blockchain where users can Learn, Earn, interact and Play games.
 - **PayFriaca**.
 
 ## Contact me
