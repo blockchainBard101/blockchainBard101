@@ -1,10 +1,10 @@
 # Alainengiya George Junior | Sui Move Developer
 
-I am a dedicated Blockchain enthusiast with expertise in sui move smart contract Development.
+I am a dedicated Blockchain enthusiast with expertise in smart contract and BackendDevelopment.
 
 ## About Me
 
-I am currently pursuing a Bachelor of Engineering in Mechatronics Engineering at the Federal University of Technology, Minna, Niger State. My passion lies in integrating Sui blockchain technology to create innovative solutions.
+I am currently pursuing a Bachelor of Engineering in Mechatronics Engineering at the Federal University of Technology, Minna, Niger State. My passion lies in integrating blockchain technology to create innovative solutions.
 
 ## Skills
 
