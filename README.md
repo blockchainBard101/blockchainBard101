@@ -1,4 +1,4 @@
-# Alainengiya George Junior | Sui Move Developer
+# Alainengiya George Junior | smart contract Developer
 
 I am a dedicated Blockchain enthusiast with expertise in smart contract and BackendDevelopment.
 
