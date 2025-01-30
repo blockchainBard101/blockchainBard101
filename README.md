@@ -1,4 +1,4 @@
-# Alainengiya George Junior | smart contract Developer
+# Alainengiya George Junior | smart contract | Backend Developer
 
 I am a dedicated Blockchain enthusiast with expertise in smart contract and Backend Development.
 
