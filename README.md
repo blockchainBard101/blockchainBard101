@@ -1,6 +1,6 @@
 # Alainengiya George Junior | smart contract Developer
 
-I am a dedicated Blockchain enthusiast with expertise in smart contract and BackendDevelopment.
+I am a dedicated Blockchain enthusiast with expertise in smart contract and Backend Development.
 
 ## About Me
 
@@ -9,7 +9,7 @@ I am currently pursuing a Bachelor of Engineering in Mechatronics Engineering at
 ## Skills
 
 - **Programming Languages:** Python, C++, JavaScript/Typescript, Sui Move, Rust, Solidity.
-- **Databases:** Mongodb, Postgresql
+- **Databases:** Mongodb, Postgresql, MySQL
 - **Tools & Frameworks:** React, Node js, Sui sdk, Nestjs.
 - **Areas of Expertise:** Smart Contract and Backend Development.
 
