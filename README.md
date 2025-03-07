@@ -1,4 +1,4 @@
-# Alainengiya George Junior | Mechatronics, AI & Smart Contract Developer
+# Alainengiya George Junior | AI, Back-end & Smart Contract Developer 🤓
 
 I am a Full-Stack Developer specializing in smart contract development, backend engineering, Artificial Intelligence, and Embedded Systems.
 
