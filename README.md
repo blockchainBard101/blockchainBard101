@@ -23,7 +23,7 @@ I am currently pursuing a Bachelor of Engineering in Mechatronics Engineering at
 - **Site:** [Voting Dapp on Sui](#)
 - **Deployed on Walrus: [Walrus Link](https://1uk08g3ttc3nzh2rpeogjs4j8dzqo2kam172ngzt738al2oyge.walrus.site/)
 
-### [Decentralized voting Application](https://github.com/blockchainBard101/Decentralized-voting-app-sui)
+### [Decentralized voting Application on Sui](https://github.com/blockchainBard101/Decentralized-voting-app-sui)
 - **Description:** A decentralized voting system built on the Sui blockchain, enabling secure, transparent, and tamper-proof elections.
 - **Technologies Used:** Move Programming Language, React, TypeScript, Sui SDK, Node.js, Sui Wallet.
 - **Key Features:** leveraging smart contracts to allow users to create elections, cast votes, and view results in a trustless environment.
