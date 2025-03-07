@@ -91,7 +91,7 @@ I am currently pursuing a **Bachelor of Engineering in Mechatronics Engineering*
 
 ### [Team Sushi (Powered by Sui on Campus)](https://github.com/TeamSushiSui)
 
-I am the ** Lead Dev Smart Contract / Backend Developer** of **Team Sushi**, a collaborative group of blockchain enthusiasts and developers building innovative solutions on the Sui blockchain.
+I am the **Lead Dev || Smart Contract / Backend Developer** of **Team Sushi**, a collaborative group of blockchain enthusiasts and developers building innovative solutions on the Sui blockchain.
 
 ### Projects:
 - [EduXverse](https://edu-xverse-frontend.vercel.app/home): A **virtual reality ecosystem** on Sui where users can **learn, earn, interact, and play games**.
