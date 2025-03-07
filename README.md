@@ -107,7 +107,9 @@ I am the **Lead Dev || Smart Contract / Backend Developer** of **Team Sushi**, a
 - **Website:** Coming soon...
 - **GitHub:** [GitHub](https://github.com/blockchainBard101)
 - **X (Twitter):** [X](https://x.com/web3Bard101)
-- **YouTube:** [YouTube](https://youtube.com/@web3bard101?si=vhuVOPtoCj_Sn1BN)
+- **Telegrame:** [TG](https://t.me/blockchainbard_ai)
+- **Discord:** [Discord](web3bard101)
+- **YouTube:** [YouTube](https://www.youtube.com/@blockchainbard_ai)
 - **Email:** [Email](mailto:bchainbard.annonymousasquare@gmail.com)
 
 **Thank you for visiting my portfolio!**
