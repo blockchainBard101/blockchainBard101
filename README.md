@@ -105,12 +105,12 @@ I am the **Lead Dev || Smart Contract / Backend Developer** of **Team Sushi**, a
 ## Contact Me
 
 - **Website:** Coming soon...
-- **GitHub:** [GitHub](https://github.com/blockchainBard101)
-- **X (Twitter):** [X](https://x.com/web3Bard101)
-- **Telegrame:** [TG](https://t.me/blockchainbard_ai)
-- **Discord:** [Discord](web3bard101)
-- **YouTube:** [YouTube](https://www.youtube.com/@blockchainbard_ai)
-- **Email:** [Email](mailto:bchainbard.annonymousasquare@gmail.com)
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [GitHub](https://github.com/blockchainBard101)
+- ![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [X (Twitter)](https://x.com/web3Bard101)
+- ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) [Telegram](https://t.me/blockchainbard_ai)
+- ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) [Discord](web3bard101)
+- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) [YouTube](https://www.youtube.com/@blockchainbard_ai)
+- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [Email](mailto:bchainbard.annonymousasquare@gmail.com)
 
 **Thank you for visiting my portfolio!**
 
