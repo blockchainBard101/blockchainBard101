@@ -54,12 +54,17 @@ I am currently pursuing a **Bachelor of Engineering in Mechatronics Engineering*
 - **Description:** A simple counter dApp built on the Sui blockchain and deployed to Walrus. This dApp demonstrates smart contract interactions using Move, allowing users to increment and retrieve a counter value.
 - **Technologies Used:** Move, Next.js, TypeScript, Sui SDK, Node.js, Suiet Wallet Kit.
 - **Key Features:** Smart contract-driven counter logic, seamless wallet integration with Suiet, deployed on Walrus.
-- **Live Demo:** [Walrus Link](https://1uk08g3ttc3nzh2rpeogjs4j8dzqo2kam172ngzt738al2oyge.walrus.site/)
+- **GitHub Repository:** [Repository](https://github.com/blockchainBard101/simple-counter)
+- **Deployed on Walrus:** [Walrus Link](https://1uk08g3ttc3nzh2rpeogjs4j8dzqo2kam172ngzt738al2oyge.walrus.site/)
+- **Deployed  on Vercel:** [Vercel Link](#)
+- **Live Demo:** [YouTube](#)
 
 #### [Decentralized Voting Application on Sui](https://github.com/blockchainBard101/Decentralized-voting-app-sui)
 - **Description:** A decentralized voting system built on the Sui blockchain, enabling secure, transparent, and tamper-proof elections.
 - **Technologies Used:** Move, React, TypeScript, Sui SDK, Node.js, Sui Wallet.
 - **Key Features:** Smart contract-based elections, secure voting, and real-time results.
+- **GitHub Repository:** [Repository](https://github.com/blockchainBard101/Decentralized-voting-app-sui)
+- **Deployed  on Vercel:** [Vercel Link](https://decentralized-voting-app-sui.vercel.app/)
 - **Live Demo:** [YouTube](https://www.youtube.com/watch?v=KiHmlAuvpRI)
 
 #### [Decentralized Educational & Gaming Platform Database](https://github.com/TeamSushiSui/EduverseX-smart-contract/blob/main/smart-contracts%2FeduverseX_database%2Fsources%2Feduversex_database.move)
@@ -84,13 +89,16 @@ I am currently pursuing a **Bachelor of Engineering in Mechatronics Engineering*
 
 ## Team
 
-### [Team Sushi (Powered by Sui on Campus)](https://x.com/TeamSushi_)
+### [Team Sushi (Powered by Sui on Campus)](https://github.com/TeamSushiSui)
 
-I am the **Smart Contract / Backend Developer** of **Team Sushi**, a collaborative group of blockchain enthusiasts and developers building innovative solutions on the Sui blockchain.
+I am the ** Lead Dev Smart Contract / Backend Developer** of **Team Sushi**, a collaborative group of blockchain enthusiasts and developers building innovative solutions on the Sui blockchain.
 
 ### Projects:
-- [EduXverse](https://x.com/EduXverse_sui): A **virtual reality ecosystem** on Sui where users can **learn, earn, interact, and play games**.
+- [EduXverse](https://edu-xverse-frontend.vercel.app/home): A **virtual reality ecosystem** on Sui where users can **learn, earn, interact, and play games**.
 - [Payfrica](https://payfrica.vercel.app/): A **payment system** bridging Africans to the Sui Network.
+
+### Socials
+**X (Twitter):** [X](https://x.com/TeamSushi_)
 
 ---
 
