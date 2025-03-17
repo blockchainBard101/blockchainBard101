@@ -73,7 +73,7 @@ I am currently pursuing a **Bachelor of Engineering in Mechatronics Engineering*
 - **Key Features:** User enrollment, XP and badge earning, interactive games.
 - **GitHub Repository:** [Repository](https://github.com/TeamSushiSui/EduverseX-smart-contract/blob/main/smart-contracts%2FeduverseX_database%2Fsources%2Feduversex_database.move)
 
-### **Artificial Intelligence & Machine Learning**
+### **[Artificial Intelligence & Machine Learning](https://github.com/aiBard101)**
 
 #### [Handwritten Digit Recognition System]
 - **Description:** A deep learning-based system for recognizing handwritten digits using a Convolutional Neural Network (CNN).
