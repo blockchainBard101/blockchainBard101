@@ -106,7 +106,7 @@ I am the **Lead Dev || Smart Contract / Backend Developer** of **Team Sushi**, a
 
 ## Contact Me
 
-- **Website:** Coming soon...
+- **Website:** Coming soon....
 - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [GitHub](https://github.com/blockchainBard101)
 - ![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [X (Twitter)](https://x.com/web3Bard101)
 - ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) [Telegram](https://t.me/blockchainbard_ai)
