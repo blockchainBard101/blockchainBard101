@@ -1,4 +1,4 @@
-# Alainengiya George Junior | AI, Backend & Smart Contract Developer 🤓.
+  # Alainengiya George Junior | AI, Backend & Smart Contract Developer 🤓.
 
 I am a Software Developer specializing in smart contract development, backend engineering, Artificial Intelligence, and Embedded Systems.
 
@@ -13,7 +13,7 @@ I am currently pursuing a **Bachelor of Engineering in Mechatronics Engineering*
 ## Skills
 
 ### **Programming Languages**  
-- Python, C++, JavaScript/TypeScript, Move, Rust, Solidity  
+- Python, C++, JavaScript/TypeScript, Move, Rust, Solidity.  
 
 ### **Databases**  
 - PostgreSQL, MongoDB, MySQL  
