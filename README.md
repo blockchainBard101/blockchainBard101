@@ -16,7 +16,7 @@ I am currently pursuing a **Bachelor of Engineering in Mechatronics Engineering*
 - Python, C++, JavaScript/TypeScript, Move, Rust, Solidity.  
 
 ### **Databases**  
-- PostgreSQL, MongoDB, MySQL  
+- PostgreSQL, MongoDB, MySQL.  
 
 ### **Tools & Frameworks**  
 - **AI & Data Science:** TensorFlow, PyTorch, OpenCV, MediaPipe, scikit-learn, NLTK, LangChain, Seaborn, Matplotlib, Pandas  
