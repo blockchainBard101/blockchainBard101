@@ -19,7 +19,7 @@ I am currently pursuing a **Bachelor of Engineering in Mechatronics Engineering*
 - PostgreSQL, MongoDB, MySQL.  
 
 ### **Tools & Frameworks**  
-- **AI & Data Science:** TensorFlow, PyTorch, OpenCV, MediaPipe, scikit-learn, NLTK, LangChain, Seaborn, Matplotlib, Pandas  
+- **AI & Data Science:** TensorFlow, PyTorch, OpenCV, MediaPipe, scikit-learn, NLTK, LangChain, Seaborn, Matplotlib, Pandas.  
 - **Blockchain:** Sui SDK  
 - **Backend:** Flask, FastAPI, Uvicorn, Node.js, NestJS, ExpressJS  
 - **Frontend:** React, Next.js  
