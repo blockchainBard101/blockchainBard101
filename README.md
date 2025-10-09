@@ -6,7 +6,7 @@ I am a Software Developer specializing in smart contract development, backend en
 
 ## About Me
 
-I am currently pursuing a **Bachelor of Engineering in Mechatronics Engineering** at the **Federal University of Technology, Minna, Niger State**. My passion lies in leveraging **blockchain technology** and **Artificial Intelligence** to build innovative and scalable solutions.
+I am currently pursuing a **Bachelor of Engineering in Mechatronics Engineering** at the **Federal University of Technology, Minna, Niger State**. My passion lies in leveraging **blockchain technology** and **Artificial Intelligence** to build innovative and scalable solutions
 
 ---
 
