@@ -1,13 +1,6 @@
   # A. J. George | AI, Backend & Smart Contract Developer 🤓.
 
-I am a Software Developer specializing in smart contract development, backend engineering, Artificial Intelligence, and Embedded Systems.
-
----
-
-## About Me.
-
-I am currently pursuing a **Bachelor of Engineering in Mechatronics Engineering** at the **Federal University of Technology, Minna, Niger State**. My passion lies in leveraging **blockchain technology** and **Artificial Intelligence** to build innovative and scalable solutions
-
+I am a Software Developer specializing in smart contract development, backend engineering, Artificial Intelligence, and Embedded Systems. My passion lies in leveraging **blockchain technology** and **Artificial Intelligence** to build innovative and scalable solutions
 
 ---
 
@@ -31,7 +24,13 @@ I am currently pursuing a **Bachelor of Engineering in Mechatronics Engineering*
 - **Mechatronics & AI:** Embedded Systems, Computer Vision, Machine Learning, NLP, Data Science, LLMs, Chatbots, Prompt Engineering  
 - **Blockchain:** Smart Contract Development, Decentralized Applications (dApps)  
 - **Backend:** API Development  
-- **Automation & Bots:** Telegram Bot Development  
+- **Automation & Bots:** Telegram Bot Development
+  
+---
+
+## Education.
+
+B.Eng. Mechatronics Engineering. 
 
 ---
 
