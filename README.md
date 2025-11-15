@@ -62,7 +62,7 @@ B.Eng. Mechatronics Engineering.
 #### [Decentralized Voting Application on Sui](https://github.com/blockchainBard101/Decentralized-voting-app-sui)
 - **Description:** A decentralized voting system built on the Sui blockchain, enabling secure, transparent, and tamper-proof elections.
 - **Technologies Used:** Move, React, TypeScript, Sui SDK, Node.js, Sui Wallet.
-- **Key Features:** Smart contract-based elections, secure voting, and real-time results.
+- **Key Features:** Smart contract-based elections, secure voting, and real-time results
 - **GitHub Repository:** [Repository](https://github.com/blockchainBard101/Decentralized-voting-app-sui)
 - **Deployed  on Vercel:** [Vercel Link](https://decentralized-voting-app-sui.vercel.app/)
 - **Live Demo:** [YouTube](https://www.youtube.com/watch?v=KiHmlAuvpRI)
