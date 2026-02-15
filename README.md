@@ -97,7 +97,7 @@ I am the **Lead Dev || Smart Contract / Backend Developer** of **Team Sushi**, a
 
 ### Projects:
 - [EduXverse](https://edu-xverse-frontend.vercel.app/home): A **virtual reality ecosystem** on Sui where users can **learn, earn, interact, and play games**.
-- [Payfrica](https://payfrica.vercel.app/): A **payment system** bridging Africans to the Sui Network.
+- [Payfrica](https://payfrica.xyz/): Making digital assets simple, safe, and usable for Africans.
 
 ### Socials
 **X (Twitter):** [X](https://x.com/TeamSushi_)
