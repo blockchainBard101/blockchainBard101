@@ -4,7 +4,7 @@ I am a Software Developer specializing in smart contract development, backend en
 
 ---
 
-## Skills.
+## Skills
 
 ### **Programming Languages**  
 - Python, C++, JavaScript/TypeScript, Move, Rust, Solidity.  
