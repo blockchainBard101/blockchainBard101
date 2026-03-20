@@ -1,6 +1,6 @@
-# A. J. George | AI, Backend & Smart Contract Developer 🤓
+# A. J. George | AI, Backend & Smart Contract Engineer 🤓
 
-I am a Software Developer specializing in smart contract development, backend engineering, Artificial Intelligence, and Embedded Systems. My passion lies in leveraging **blockchain technology** and **Artificial Intelligence** to build innovative and scalable solutions.
+I am a Software Engineer specializing in smart contract development, backend engineering, Artificial Intelligence, and Embedded Systems. My passion lies in leveraging **blockchain technology** and **Artificial Intelligence** to build innovative and scalable solutions.
 
 ---
 
