@@ -14,7 +14,7 @@ I am a Software Engineer specializing in smart contract development, backend eng
 
 ### **Tools & Frameworks**  
 - **AI & Data Science:** TensorFlow, PyTorch, OpenCV, MediaPipe, scikit-learn, NLTK, LangChain, Seaborn, Matplotlib, Pandas.  
-- **Blockchain:** Sui sdk, Soroban  
+- **Blockchain:** Sui sdk, Open Wallet Standard(OWS)  
 - **Backend:** Flask, FastAPI, Uvicorn, Node.js, NestJS, ExpressJS  
 - **Frontend:** React, Next.js  
 - **Game Development:** pygame  
