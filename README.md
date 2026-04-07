@@ -7,14 +7,19 @@ I am a Software Engineer specializing in smart contract development, backend eng
 ## Skills
 
 ### **Programming Languages**  
-- Python, C++, JavaScript/TypeScript, Move, Rust, Solidity.  
+- Python, C++, JavaScript/TypeScript, Move, Rust, Solidity.
+
+### **Blockchains**  
+- Sui
+- Iota
+- Stellar
 
 ### **Databases**  
 - PostgreSQL, MongoDB, MySQL.  
 
 ### **Tools & Frameworks**  
 - **AI & Data Science:** TensorFlow, PyTorch, OpenCV, MediaPipe, scikit-learn, NLTK, LangChain, Seaborn, Matplotlib, Pandas.  
-- **Blockchain:** Sui, Soroban  
+- **Blockchain:** Sui sdk, Soroban  
 - **Backend:** Flask, FastAPI, Uvicorn, Node.js, NestJS, ExpressJS  
 - **Frontend:** React, Next.js  
 - **Game Development:** pygame  
