@@ -9,11 +9,6 @@ I am a Software Engineer specializing in smart contract development, backend eng
 ### **Programming Languages**  
 - Python, C++, JavaScript/TypeScript, Move, Rust, Solidity.
 
-### **Blockchains**  
-- Sui
-- Iota
-- Stellar
-
 ### **Databases**  
 - PostgreSQL, MongoDB, MySQL.  
 
@@ -30,6 +25,11 @@ I am a Software Engineer specializing in smart contract development, backend eng
 - **Blockchain:** Smart Contract Development, Decentralized Applications (dApps)  
 - **Backend:** API Development  
 - **Automation & Bots:** Telegram Bot Development
+
+### **Blockchains**  
+- Sui
+- Iota
+- Stellar
   
 ---
 
