@@ -35,6 +35,7 @@ I am a Software Engineer specializing in smart contract development, fullstack, 
 - Arc
 - Base
 - Celo
+- BotChain
   
 ---
 
