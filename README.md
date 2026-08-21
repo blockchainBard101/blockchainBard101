@@ -4,7 +4,7 @@
 
 I engineer and ship production software across **full-stack applications, backend systems, blockchain infrastructure, payments, AI, and DevOps**.
 
-I work across the entire software lifecycle — from architecture and development to deployment and production infrastructure.
+I work across the entire software lifecycle, from architecture and development to deployment and production infrastructure.
 
 ---
 
