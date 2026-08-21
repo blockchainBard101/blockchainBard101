@@ -1,4 +1,4 @@
-# A. J. George 
+# A. J. George
 
 ### Software Engineer · Full-Stack · Backend · Web3 · DevOps
 
@@ -8,13 +8,15 @@ I work across the entire software lifecycle — from architecture and developmen
 
 ---
 
-## 🚀 Production Projects
+## Production Projects
 
 ### [Payfrica](https://payfrica.xyz/)
 
-**Full-Stack · Backend · Payments · Web3**
+<a href="https://payfrica.xyz/">
+  <img src="https://i.ibb.co/gFPKd4Bz/Screenshot-from-2026-08-21-01-16-10.png" alt="Payfrica" width="100%">
+</a>
 
-Production fintech platform.
+**Full-Stack · Backend · Payments · Web3**
 
 **Tech:** `TypeScript` `NestJS` `Next.js` `PostgreSQL` `Prisma` `Redis` `Docker` `Blockchain`
 
@@ -22,9 +24,11 @@ Production fintech platform.
 
 ### [AWTSIDE](https://www.awtside.com/)
 
-**Full-Stack · Backend · Web3**
+<a href="https://www.awtside.com/">
+  <img src="https://i.ibb.co/1fthWTwY/Screenshot-from-2026-08-21-01-16-58.png" alt="AWTSIDE" width="100%">
+</a>
 
-Production web application.
+**Full-Stack · Backend · Web3**
 
 **Tech:** `TypeScript` `Next.js` `React` `Node.js` `PostgreSQL`
 
@@ -32,9 +36,11 @@ Production web application.
 
 ### [Woshmart](https://www.woshmart.com/)
 
-**Full-Stack · Product Engineering**
+<a href="https://www.woshmart.com/">
+  <img src="https://i.ibb.co/209FsJVn/Screenshot-from-2026-08-21-01-14-29.png" alt="Woshmart" width="100%">
+</a>
 
-Production laundry service platform.
+**Full-Stack · Product Engineering**
 
 **Tech:** `TypeScript` `Next.js` `React` `Backend APIs` `PostgreSQL`
 
