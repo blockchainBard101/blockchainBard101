@@ -18,7 +18,7 @@ I work across the entire software lifecycle — from architecture and developmen
 
 **Product Engineering · Full-Stack · Backend · Payments · Web3 · DevOps**
 
-**Tech:** `TypeScript` `NestJS` `Next.js` `PostgreSQL` `Prisma` `Redis` `Docker` `Blockchain`
+**Tech:** `TypeScript` `NestJS` `Next.js` `PostgreSQL` `Prisma` `Redis` `Docker` `Blockchain` `Move` `Solidity`
 
 ---
 ### [Voultron Games](https://voultron.fun/)
@@ -31,7 +31,8 @@ I work across the entire software lifecycle — from architecture and developmen
 
 Provably fair gaming smart contracts and revenue-sharing systems.
 
-**Tech:** `Smart Contracts` `Blockchain` `Web3`
+**Tech:** `Smart Contracts` `Blockchain` `Web3` `Sui` `Move`
+
 ---
 
 ### [AWTSIDE](https://www.awtside.com/)
