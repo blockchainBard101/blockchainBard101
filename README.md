@@ -1,6 +1,6 @@
 # BlockchainBard (A.J. George)
 
-### Software Engineer · Full-Stack · Backend · Web3 · DevOps
+### Software Engineer · Ai · Full-Stack · Backend · Web3 · DevOps 
 
 I engineer and ship production software across **full-stack applications, backend systems, blockchain infrastructure, payments, AI, and DevOps**.
 
