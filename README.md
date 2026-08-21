@@ -16,10 +16,22 @@ I work across the entire software lifecycle — from architecture and developmen
   <img src="https://i.ibb.co/gFPKd4Bz/Screenshot-from-2026-08-21-01-16-10.png" alt="Payfrica" width="100%">
 </a>
 
-**Full-Stack · Backend · Payments · Web3**
+**Product Engineering · Full-Stack · Backend · Payments · Web3 · DevOps**
 
 **Tech:** `TypeScript` `NestJS` `Next.js` `PostgreSQL` `Prisma` `Redis` `Docker` `Blockchain`
 
+---
+### [Voultron Games](https://voultron.fun/)
+
+<a href="https://voultron.fun/">
+  <img src="https://i.ibb.co/gM5VStcb/Screenshot-from-2026-08-21-01-23-37.png" alt="Voultron Games" width="100%">
+</a>
+
+**Web3 · Blockchain · Smart Contracts**
+
+Provably fair gaming smart contracts and revenue-sharing systems.
+
+**Tech:** `Smart Contracts` `Blockchain` `Web3`
 ---
 
 ### [AWTSIDE](https://www.awtside.com/)
@@ -28,7 +40,9 @@ I work across the entire software lifecycle — from architecture and developmen
   <img src="https://i.ibb.co/1fthWTwY/Screenshot-from-2026-08-21-01-16-58.png" alt="AWTSIDE" width="100%">
 </a>
 
-**Full-Stack · Backend · Web3**
+**Full-Stack · Agritech · Bioeconomy**
+
+Production platform focused on agricultural supply chains, organic waste conversion, and sustainable local feed production.
 
 **Tech:** `TypeScript` `Next.js` `React` `Node.js` `PostgreSQL`
 
@@ -40,7 +54,7 @@ I work across the entire software lifecycle — from architecture and developmen
   <img src="https://i.ibb.co/209FsJVn/Screenshot-from-2026-08-21-01-14-29.png" alt="Woshmart" width="100%">
 </a>
 
-**Full-Stack · Product Engineering**
+**Full-Stack · Backend · Payments**
 
 **Tech:** `TypeScript` `Next.js` `React` `Backend APIs` `PostgreSQL`
 
@@ -102,4 +116,4 @@ Federal University of Technology, Minna
 
 ## 🔗 Connect
 
-[GitHub](https://github.com/blockchainBard101) · [Payfrica](https://payfrica.xyz/) · [AWTSIDE](https://www.awtside.com/) · [Woshmart](https://www.woshmart.com/)
+[LinkedIn](https://www.linkedin.com/in/george-junior-alainengiya-5b44b5251) · [Medium](https://medium.com/@blockchainbard) · [YouTube](https://www.youtube.com/@blockchainbard_ai) · [X](https://x.com/web3Bard101)
