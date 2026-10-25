@@ -67,7 +67,7 @@ Production platform focused on agricultural supply chains, organic waste convers
   <img src="https://i.ibb.co/5X0bfbXR/Screenshot-2026-10-25-at-15-17-49.png" alt="lawkali" width="100%">
 </a>
 
-**Frontned · Backend **
+**Frontned · Backend**
 
 **Tech:** `TypeScript` `Next.js` `React`
 
