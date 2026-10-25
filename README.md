@@ -41,11 +41,11 @@ Provably fair gaming smart contracts and revenue-sharing systems.
   <img src="https://i.ibb.co/1fthWTwY/Screenshot-from-2026-08-21-01-16-58.png" alt="AWTSIDE" width="100%">
 </a>
 
-**Full-Stack · Agritech · Bioeconomy**
+**Full-Stack · Agritech · Bioeconomy · Payments**
 
 Production platform focused on agricultural supply chains, organic waste conversion, and sustainable local feed production.
 
-**Tech:** `TypeScript` `Next.js` `React` `Node.js` `PostgreSQL`
+**Tech:** `TypeScript` `Next.js` `React` `Node.js` `Nest js` `PostgreSQL`
 
 ---
 
@@ -57,7 +57,19 @@ Production platform focused on agricultural supply chains, organic waste convers
 
 **Full-Stack · Backend · Payments**
 
-**Tech:** `TypeScript` `Next.js` `React` `Backend APIs` `PostgreSQL`
+**Tech:** `TypeScript` `Next.js` `Nest js` `React` `Backend APIs` `PostgreSQL`
+
+---
+
+### [Lawkali](https://www.lawkali.com/)
+
+<a href="https://www.lawkali.com/">
+  <img src="https://i.ibb.co/5X0bfbXR/Screenshot-2026-10-25-at-15-17-49.png" alt="lawkali" width="100%">
+</a>
+
+**Frontned · Backend **
+
+**Tech:** `TypeScript` `Next.js` `React`
 
 ---
 
